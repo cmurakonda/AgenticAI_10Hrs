@@ -1,4 +1,17 @@
--- Installation steps
+# Agentic AI in 10 Hrs
+## This is a complete course on learning Generative ai and agentic with Langchain and Langgraph. We have included all the topics from RAG, vectorless rag, Deep agents, Guardrails, LLM Evaluation and LLM Gateways Techniques
+Github Links
+Langchain
+Langgraph
+RAG
+Vectorless RAG
+Deep Agents
+Guardrails
+LLM Evals 
+LLM Gateways
+
+
+# Installation steps
 1. install uv - python package manager
 https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_2
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
